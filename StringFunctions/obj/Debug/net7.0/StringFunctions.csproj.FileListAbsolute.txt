@@ -1,0 +1,15 @@
+C:\Users\lbento\My Projects\Estudos\StringFunctions\obj\Debug\net7.0\StringFunctions.csproj.AssemblyReference.cache
+C:\Users\lbento\My Projects\Estudos\StringFunctions\obj\Debug\net7.0\StringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbento\My Projects\Estudos\StringFunctions\obj\Debug\net7.0\StringFunctions.AssemblyInfoInputs.cache
+C:\Users\lbento\My Projects\Estudos\StringFunctions\obj\Debug\net7.0\StringFunctions.AssemblyInfo.cs
+C:\Users\lbento\My Projects\Estudos\StringFunctions\obj\Debug\net7.0\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\lbento\My Projects\Estudos\StringFunctions\bin\Debug\net7.0\StringFunctions.exe
+C:\Users\lbento\My Projects\Estudos\StringFunctions\bin\Debug\net7.0\StringFunctions.deps.json
+C:\Users\lbento\My Projects\Estudos\StringFunctions\bin\Debug\net7.0\StringFunctions.runtimeconfig.json
+C:\Users\lbento\My Projects\Estudos\StringFunctions\bin\Debug\net7.0\StringFunctions.dll
+C:\Users\lbento\My Projects\Estudos\StringFunctions\bin\Debug\net7.0\StringFunctions.pdb
+C:\Users\lbento\My Projects\Estudos\StringFunctions\obj\Debug\net7.0\StringFunctions.dll
+C:\Users\lbento\My Projects\Estudos\StringFunctions\obj\Debug\net7.0\refint\StringFunctions.dll
+C:\Users\lbento\My Projects\Estudos\StringFunctions\obj\Debug\net7.0\StringFunctions.pdb
+C:\Users\lbento\My Projects\Estudos\StringFunctions\obj\Debug\net7.0\StringFunctions.genruntimeconfig.cache
+C:\Users\lbento\My Projects\Estudos\StringFunctions\obj\Debug\net7.0\ref\StringFunctions.dll

@@ -1,0 +1,15 @@
+C:\Users\lbento\My Projects\Estudos\Timespan\bin\Debug\net7.0\Timespan.exe
+C:\Users\lbento\My Projects\Estudos\Timespan\bin\Debug\net7.0\Timespan.deps.json
+C:\Users\lbento\My Projects\Estudos\Timespan\bin\Debug\net7.0\Timespan.runtimeconfig.json
+C:\Users\lbento\My Projects\Estudos\Timespan\bin\Debug\net7.0\Timespan.dll
+C:\Users\lbento\My Projects\Estudos\Timespan\bin\Debug\net7.0\Timespan.pdb
+C:\Users\lbento\My Projects\Estudos\Timespan\obj\Debug\net7.0\Timespan.csproj.AssemblyReference.cache
+C:\Users\lbento\My Projects\Estudos\Timespan\obj\Debug\net7.0\Timespan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbento\My Projects\Estudos\Timespan\obj\Debug\net7.0\Timespan.AssemblyInfoInputs.cache
+C:\Users\lbento\My Projects\Estudos\Timespan\obj\Debug\net7.0\Timespan.AssemblyInfo.cs
+C:\Users\lbento\My Projects\Estudos\Timespan\obj\Debug\net7.0\Timespan.csproj.CoreCompileInputs.cache
+C:\Users\lbento\My Projects\Estudos\Timespan\obj\Debug\net7.0\Timespan.dll
+C:\Users\lbento\My Projects\Estudos\Timespan\obj\Debug\net7.0\refint\Timespan.dll
+C:\Users\lbento\My Projects\Estudos\Timespan\obj\Debug\net7.0\Timespan.pdb
+C:\Users\lbento\My Projects\Estudos\Timespan\obj\Debug\net7.0\Timespan.genruntimeconfig.cache
+C:\Users\lbento\My Projects\Estudos\Timespan\obj\Debug\net7.0\ref\Timespan.dll

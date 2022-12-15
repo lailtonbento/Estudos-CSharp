@@ -1,0 +1,15 @@
+C:\Users\lbento\My Projects\Estudos\TypeInference\bin\Debug\net7.0\TypeInference.exe
+C:\Users\lbento\My Projects\Estudos\TypeInference\bin\Debug\net7.0\TypeInference.deps.json
+C:\Users\lbento\My Projects\Estudos\TypeInference\bin\Debug\net7.0\TypeInference.runtimeconfig.json
+C:\Users\lbento\My Projects\Estudos\TypeInference\bin\Debug\net7.0\TypeInference.dll
+C:\Users\lbento\My Projects\Estudos\TypeInference\bin\Debug\net7.0\TypeInference.pdb
+C:\Users\lbento\My Projects\Estudos\TypeInference\obj\Debug\net7.0\TypeInference.csproj.AssemblyReference.cache
+C:\Users\lbento\My Projects\Estudos\TypeInference\obj\Debug\net7.0\TypeInference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbento\My Projects\Estudos\TypeInference\obj\Debug\net7.0\TypeInference.AssemblyInfoInputs.cache
+C:\Users\lbento\My Projects\Estudos\TypeInference\obj\Debug\net7.0\TypeInference.AssemblyInfo.cs
+C:\Users\lbento\My Projects\Estudos\TypeInference\obj\Debug\net7.0\TypeInference.csproj.CoreCompileInputs.cache
+C:\Users\lbento\My Projects\Estudos\TypeInference\obj\Debug\net7.0\TypeInference.dll
+C:\Users\lbento\My Projects\Estudos\TypeInference\obj\Debug\net7.0\refint\TypeInference.dll
+C:\Users\lbento\My Projects\Estudos\TypeInference\obj\Debug\net7.0\TypeInference.pdb
+C:\Users\lbento\My Projects\Estudos\TypeInference\obj\Debug\net7.0\TypeInference.genruntimeconfig.cache
+C:\Users\lbento\My Projects\Estudos\TypeInference\obj\Debug\net7.0\ref\TypeInference.dll
