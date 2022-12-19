@@ -1,0 +1,15 @@
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\bin\Debug\net7.0\FilesDirectory.exe
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\bin\Debug\net7.0\FilesDirectory.deps.json
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\bin\Debug\net7.0\FilesDirectory.runtimeconfig.json
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\bin\Debug\net7.0\FilesDirectory.dll
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\bin\Debug\net7.0\FilesDirectory.pdb
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\obj\Debug\net7.0\FilesDirectory.csproj.AssemblyReference.cache
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\obj\Debug\net7.0\FilesDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\obj\Debug\net7.0\FilesDirectory.AssemblyInfoInputs.cache
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\obj\Debug\net7.0\FilesDirectory.AssemblyInfo.cs
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\obj\Debug\net7.0\FilesDirectory.csproj.CoreCompileInputs.cache
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\obj\Debug\net7.0\FilesDirectory.dll
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\obj\Debug\net7.0\refint\FilesDirectory.dll
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\obj\Debug\net7.0\FilesDirectory.pdb
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\obj\Debug\net7.0\FilesDirectory.genruntimeconfig.cache
+C:\Users\lbento\My Projects\Estudos\FilesDirectory\obj\Debug\net7.0\ref\FilesDirectory.dll
