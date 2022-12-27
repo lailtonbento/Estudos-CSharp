@@ -6,43 +6,43 @@ namespace ExercicioHeranca
 {
     class Program
     {
-        static void Main (string [] args){
+        static void Main(string[] args)
+        {
 
-            List<Employee> listEmp = new List<Employee>();
+            List<Trabalhador> listTrab = new List<Trabalhador>();
 
-            Console.Write("Quantity of Employee: ");
+            Console.Write("Quantidade de Trabalhadores: ");
             int numberOfEmployee = int.Parse(Console.ReadLine());
 
             for (int i = 1; i <= numberOfEmployee; i++)
             {
-                Console.WriteLine($"Employee Number {i}");
-                Console.Write("Outsourced ? (y/n) ");
+                Console.WriteLine($"Trabalhador Numero #{i}: ");
+                Console.Write("Terceirizado ? (y/n) ");
                 char ch = char.Parse(Console.ReadLine());
 
-                Console.Write("Name: ");
+                Console.Write("Nome: ");
                 string name = Console.ReadLine();
-                Console.Write("Hours: ");
+                Console.Write("Horas: ");
                 int hours = int.Parse(Console.ReadLine());
-                Console.Write("Value Per Hours: ");
+                Console.Write("Valor por Hora: ");
                 double valuePerHours = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                
+
                 if (ch == 'y')
                 {
-                    Console.Write("Addiotional Charge: ");
-                    double additionalCharge = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                    listEmp.Add(new OutsourcedEmployee(name, hours, valuePerHours, additionalCharge));
+                    Console.Write("Bonus Adicional: ");
+                    double bonusAdicional = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    listTrab.Add(new TrabalhadorTerceirizado(name, hours, valuePerHours, bonusAdicional));
                 }
                 else
-                {
-                    listEmp.Add(new Employee(name, hours, valuePerHours));
-                }
+                    listTrab.Add(new Trabalhador(name, hours, valuePerHours));
 
-                Console.WriteLine("----------------------------------");
-                Console.WriteLine("PAYMENTS: ");
-                foreach(Employee emp in listEmp){
-                    Console.WriteLine($"Name: {emp.Name} - R$ {emp.Payment()}");
+            }
+            Console.WriteLine("----------------------------------");
+            Console.WriteLine("Pagamentos: ");
 
-                }
+            foreach (Trabalhador trabalhador in listTrab)
+            {
+                Console.WriteLine($"Nome: {trabalhador.Name} - R$ {trabalhador.Pagamento()}");
             }
         }
     }

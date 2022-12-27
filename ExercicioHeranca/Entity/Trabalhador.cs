@@ -1,19 +1,20 @@
 namespace ExercicioHeranca.Entity
 {
-    class Employee
+    class Trabalhador
     {
         public string Name { get; set; }
         public int Hours { get; set; }
         public double ValuePerHours { get; set; }
 
-        public Employee(string name, int hours, double valuePerHours)
+        public Trabalhador(string name, int hours, double valuePerHours)
         {
             Name = name;
             Hours = hours;
             ValuePerHours = valuePerHours;
         }
+        public Trabalhador(){}
 
-        public virtual double Payment()
+        public virtual double Pagamento()
         {
             return Hours * ValuePerHours;
         }

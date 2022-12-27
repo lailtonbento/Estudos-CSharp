@@ -1,0 +1,20 @@
+Generics permitem que classes, interfaces e metodos possam ser parametrizados por tipo
+Podem ser Collections
+
+
+Equals : Compara se um objeto é igual ao outro
+        Retorna true ou false
+            System.Console.WriteLine(names[1].Equals(names[2]));
+
+Sets: Uma coleçao que contem apenas elementos distintos
+HashSet e SortedSet
+
+             HashSet 
+                    Armazenamento em tabela hash
+                    Extremamente rápido: inserção, remoção e busca
+                    A ordem dos elementos não é garantida, os elementos nao podem ser duplicados
+
+            SortedSet • 
+                    Armazenamento em árvore
+                    Rápido: inserção, remoção e busca
+                    Os elementos são armazenados ordenadamente conforme implementação IComparer<T>

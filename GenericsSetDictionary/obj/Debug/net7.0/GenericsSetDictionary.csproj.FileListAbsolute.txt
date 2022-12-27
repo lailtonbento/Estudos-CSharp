@@ -1,0 +1,15 @@
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\bin\Debug\net7.0\GenericsSetDictionary.exe
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\bin\Debug\net7.0\GenericsSetDictionary.deps.json
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\bin\Debug\net7.0\GenericsSetDictionary.runtimeconfig.json
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\bin\Debug\net7.0\GenericsSetDictionary.dll
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\bin\Debug\net7.0\GenericsSetDictionary.pdb
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.csproj.AssemblyReference.cache
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.AssemblyInfoInputs.cache
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.AssemblyInfo.cs
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.csproj.CoreCompileInputs.cache
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.dll
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\obj\Debug\net7.0\refint\GenericsSetDictionary.dll
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.pdb
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.genruntimeconfig.cache
+C:\Users\lbento\My Projects\Estudos\GenericsSetDictionary\obj\Debug\net7.0\ref\GenericsSetDictionary.dll
