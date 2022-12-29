@@ -12,3 +12,34 @@ Element: ElementAt, First, FirstOrDefault, Last, LasOrDefault, Single, SingleOrD
 Conversions: AsEnumerable, AsQueryable
 Concatenation: Concatenation
 Aggregation: Aggregate, Average, Count, LongCount, Max, Min, Sum
+
+OPERAÇAO JUNCAO no SQL:
+
+SELECT *
+FROM PRODUCT, CATEGORY
+WHERE
+PRODUCT.CATEGORY.ID = CATEGORYID
+
+
+SELECT *
+FROM PRODUCT
+INNER JOIN CATEGORY as cat
+  ON PRODUCT.CATEGORY.ID = cat.ID
+
+
+OPERAÇAO RESTRICAO no SQL:
+
+SELECT *
+FROM PRODUCT
+INNER JOIN CATEGORY as cat
+  ON PRODUCT.CATEGORY.ID = cat.ID
+WHERE CATEGORY.NAME = 'Computers'
+
+OPERAÇAO PROJEÇAO no SQL:
+
+SELECT PRODUCT.*, CATEGORY.NAME
+FROM PRODUCT
+INNER JOIN CATEGORY as cat
+  ON PRODUCT.CATEGORY.ID = cat.ID
+WHERE CATEGORY.NAME = 'Computers'
+
