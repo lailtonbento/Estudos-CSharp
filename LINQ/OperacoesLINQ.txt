@@ -43,3 +43,13 @@ INNER JOIN CATEGORY as cat
   ON PRODUCT.CATEGORY.ID = cat.ID
 WHERE CATEGORY.NAME = 'Computers'
 
+O linq tem duas sintaxes, Sintaxe de consulta ou Sintaxe de metodo
+
+O que é uma variavel de consulta? A variavel que recebe a consulta e armazena o resultado
+
+Uma expressao de consulta começa com uma clausula FROM e deve terminar com uma clausula SELECT ou GROUP.
+
+Uma colecao de consulta tem o tipo IEnumerable<> ou IQueriable<>
+
+Uma expressao de consulta consegue tipar de forma implicita e explicita
+
