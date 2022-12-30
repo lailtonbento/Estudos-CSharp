@@ -1,0 +1,15 @@
+Injeçao de dependencia é um padrão de projeto usado para evitar o alto nivel de acoplamento de codigo dentro de uma aplicacao.
+Sistemas com baixo nivel de acoplamento de codigo sao melhores pelos seguintes motivos:
+
+    Aumento na facilidade de manutenção/implementação de novas funcionalidades e também habilita a utilização de mocks para realizar unit testes.
+
+
+Injeção de dependência é uma das duas maneiras de implementar a inversão de controle. 
+Inversão de controle é um termo mais amplo, onde a responsabilidade de informar a implementação a ser utilizada deixa de ser da classe, e passa a ser do consumidor da classe. A segunda maneira de implementar a IoC seria com Service Locator.
+Toda implementação de inversão de controle nos ajuda a seguir o primeiro e o último dos cincos princípios SOLID.
+
+    • S — Single-responsiblity principle
+    • O — Open-closed principle
+    • L — Liskov substitution principle
+    • I — Interface segregation principle
+    • D — Dependency Inversion Principle

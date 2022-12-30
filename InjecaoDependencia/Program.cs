@@ -1,0 +1,7 @@
+﻿namespace InjecaoDepenencia
+{
+    class Program
+    {
+    
+    }
+}
