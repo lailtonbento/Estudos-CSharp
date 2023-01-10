@@ -16,9 +16,9 @@ public class PizzariaController : ControllerBase
     }
 
     [HttpGet("{id}")]
-    public ActionResult<Pizza> Get(int id)
+    public ActionResult<Pizza> GetById(int id)
     {
-        var pizza = _pizzariaService.GetId(id);
+        var pizza = _pizzariaService.FindById(id);
 
         if (pizza == null)
             return NotFound();
@@ -39,7 +39,7 @@ public class PizzariaController : ControllerBase
         if (id != pizza.Id)
             return BadRequest();
 
-        var existingPizza = _pizzariaService.GetId(id);
+        var existingPizza = _pizzariaService.FindById(id);
         if (existingPizza is null)
             return NotFound();
 
@@ -50,7 +50,7 @@ public class PizzariaController : ControllerBase
     [HttpDelete("{id}")]
     public IActionResult Delete(int id)
     {
-        var pizza = _pizzariaService.GetId(id);
+        var pizza = _pizzariaService.FindById(id);
 
         if (pizza is null)
             return NotFound();

@@ -7,11 +7,7 @@ public class Pizza
     public string Name { get; set; }
     public bool IsGlutenFree { get; set; }
 
-    public Pizza()
-    {
-    }
-
-    public Pizza(int id, string? name, bool isGlutenFree)
+    public Pizza(int id, string name, bool isGlutenFree)
     {
         Id = id;
         Name = name;

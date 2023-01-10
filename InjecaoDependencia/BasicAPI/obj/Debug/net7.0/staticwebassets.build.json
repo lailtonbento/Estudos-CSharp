@@ -1,19 +1,11 @@
 {
   "Version": 1,
-  "Hash": "dM3vGs6dKXOYCJW6TpfgseAtFLnYOWoHbVya9i3fVAc=",
+  "Hash": "1fLEai4WQ6Bqg+y5ecweW+dQxqJ/mk16E/xocDG2sTU=",
   "Source": "BasicAPI",
   "BasePath": "_content/BasicAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "BasicAPI\\wwwroot",
-      "Source": "BasicAPI",
-      "ContentRoot": "C:\\Users\\lbento\\My Projects\\BasicAPI\\wwwroot\\",
-      "BasePath": "_content/BasicAPI",
-      "Pattern": "**"
-    }
-  ],
+  "DiscoveryPatterns": [],
   "Assets": []
 }

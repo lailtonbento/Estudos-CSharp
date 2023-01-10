@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lbento\\My Projects\\BasicAPI\\BasicAPI.csproj": {}
+    "C:\\Users\\lbento\\My Projects\\Estudos\\InjecaoDependencia\\BasicAPI\\BasicAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lbento\\My Projects\\BasicAPI\\BasicAPI.csproj": {
+    "C:\\Users\\lbento\\My Projects\\Estudos\\InjecaoDependencia\\BasicAPI\\BasicAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lbento\\My Projects\\BasicAPI\\BasicAPI.csproj",
+        "projectUniqueName": "C:\\Users\\lbento\\My Projects\\Estudos\\InjecaoDependencia\\BasicAPI\\BasicAPI.csproj",
         "projectName": "BasicAPI",
-        "projectPath": "C:\\Users\\lbento\\My Projects\\BasicAPI\\BasicAPI.csproj",
+        "projectPath": "C:\\Users\\lbento\\My Projects\\Estudos\\InjecaoDependencia\\BasicAPI\\BasicAPI.csproj",
         "packagesPath": "C:\\Users\\lbento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lbento\\My Projects\\BasicAPI\\obj\\",
+        "outputPath": "C:\\Users\\lbento\\My Projects\\Estudos\\InjecaoDependencia\\BasicAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,18 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
