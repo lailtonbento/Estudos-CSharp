@@ -1,0 +1,15 @@
+C:\Users\lbento\My Projects\Estudos\SRP\bin\Debug\net6.0\SRP.exe
+C:\Users\lbento\My Projects\Estudos\SRP\bin\Debug\net6.0\SRP.deps.json
+C:\Users\lbento\My Projects\Estudos\SRP\bin\Debug\net6.0\SRP.runtimeconfig.json
+C:\Users\lbento\My Projects\Estudos\SRP\bin\Debug\net6.0\SRP.dll
+C:\Users\lbento\My Projects\Estudos\SRP\bin\Debug\net6.0\SRP.pdb
+C:\Users\lbento\My Projects\Estudos\SRP\obj\Debug\net6.0\SRP.csproj.AssemblyReference.cache
+C:\Users\lbento\My Projects\Estudos\SRP\obj\Debug\net6.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbento\My Projects\Estudos\SRP\obj\Debug\net6.0\SRP.AssemblyInfoInputs.cache
+C:\Users\lbento\My Projects\Estudos\SRP\obj\Debug\net6.0\SRP.AssemblyInfo.cs
+C:\Users\lbento\My Projects\Estudos\SRP\obj\Debug\net6.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\lbento\My Projects\Estudos\SRP\obj\Debug\net6.0\SRP.dll
+C:\Users\lbento\My Projects\Estudos\SRP\obj\Debug\net6.0\refint\SRP.dll
+C:\Users\lbento\My Projects\Estudos\SRP\obj\Debug\net6.0\SRP.pdb
+C:\Users\lbento\My Projects\Estudos\SRP\obj\Debug\net6.0\SRP.genruntimeconfig.cache
+C:\Users\lbento\My Projects\Estudos\SRP\obj\Debug\net6.0\ref\SRP.dll
